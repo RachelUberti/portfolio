@@ -8,6 +8,7 @@ body, html {
   .navbar {
     overflow: hidden;
     background-color: rgba(24, 22, 22, 0.658);
+    
   }
   
   .navbar a {
@@ -99,18 +100,20 @@ body, html {
 /* --- end gallery  --- */
 
 /* --- begin contact --- */
+.contactme {
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: #1f4721b7;
+    width: 80%;
+    margin: auto;
+}
 .contactDiv {
     border-radius: 5px;
     padding: 20px;
     width:70%;
     margin:auto;
   }
-
-.contactme {
-    padding: 10px;
-    text-align: center;
-    background-color: #1f4721b7;
-}
 
 .contactmeDiv {
     background-color: rgb(255, 255, 255);
